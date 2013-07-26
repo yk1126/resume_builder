@@ -1,0 +1,6 @@
+{<img src="https://codeclimate.com/github/yk1126/resume_builder.png" />}[https://codeclimate.com/github/yk1126/resume_builder]
+RESUME BUILDER IN RUBY
+
+The application builds resumein the desired format from user input values.
+Developed in Ruby, tested using RSpec.
+As a part of Ruby tutorial
